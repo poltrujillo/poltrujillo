@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Hola, soy poltrujillo!
+
+Bienvenido a mi perfil de GitHub. 
+
+## Sobre mí
+Soy un apasionado del desarrollo de software con experiencia en JavaScript, Java, C# y otros.
+
 <!--
 **poltrujillo/poltrujillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
